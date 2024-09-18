@@ -114,7 +114,7 @@ This is the @edition edition of this workshop, jointly organised by your organis
 
 <img src="./images/4163666.jpg" width="350" align="center"/>
 
-Example image to ilustrate the front page of the material. This image was [Designed by pikisuperstar / Freepik](https://www.freepik.com/free-vector/choice-worker-concept_9430577.htm#fromView=search&page=1&position=0&uuid=861637d1-cc1e-4b9c-bba7-1675503f0f0d)
+This image was [Designed by pikisuperstar / Freepik](https://www.freepik.com/free-vector/choice-worker-concept_9430577.htm#fromView=search&page=1&position=0&uuid=861637d1-cc1e-4b9c-bba7-1675503f0f0d)
 
 > We are using the interactive Open Educational Resource online/offline course infrastructure called LiaScript.
 > It is a distributed way of creating and sharing educational content hosted on github.
