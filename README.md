@@ -201,24 +201,8 @@ Schedule:<br>
 > 6.	Choose the right tools/platforms for sharing research outputs (Apply)<br>
 > 7.	Be able to prepare a DMP plan (create)<br>
 > 8.	Conclude the regular sharing of research output is profitable (evaluate)<br>
-<!--
-![image](https://github.com/user-attachments/assets/33db59fa-dfbb-437a-9906-ffe31ea5243b) -->
 
- <!-- 1. Define what ..... [Remembering] 
->
-> 2. Discuss and explain ..... [Understanding] 
->
-> 3. Apply and modify ..... [Applying] 
->
-> 4. Compare ..... [Analysing] 
->
-> 5. Evaluate and select ..... [Evaluating] 
->
-> 6. Create and integrate ..... [Creating]
->    -->
-
-
->> Check more about [Bloom's taxonomy](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/) to categorize the levels in educational goals
+> Check more about [Bloom's taxonomy](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/) to categorize the levels in educational goals
 >
 > <i class="fa fa-hourglass"></i> **Time estimation**: 180 minutes (3 hours)
 >
