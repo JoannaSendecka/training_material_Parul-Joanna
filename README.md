@@ -47,7 +47,7 @@ edition:  1st
 orcid:    [@0](@1)<!--class="orcid-logo-for-author-list"-->
 -->
 
-# Course Title
+# How to boost your career utilising Open Science tools
 
 ```json   @JSONLD
 {
