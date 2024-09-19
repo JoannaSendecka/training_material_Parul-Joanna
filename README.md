@@ -133,7 +133,7 @@ The **presentation** which goes alongside this material can be found [here](link
 
 ## Proposed Schedule
 
-Schedule:
+Schedule:<br>
 14:00 - Introduction and ice breaker <br>
 14:15 - What is CoARA and how it will influence research community<br>
 15:15 - Break<br>
