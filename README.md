@@ -51,55 +51,84 @@ orcid:    [@0](@1)<!--class="orcid-logo-for-author-list"-->
 
 ```json   @JSONLD
 {
-  "@context": "https://schema.org/",
-  "@type": "LearningResource",
-  "@id": "https://elixir-europe-training.github.io/ELIXIR-TrP-TeSS/",
-  "http://purl.org/dc/terms/conformsTo": {
+  "@context": "http://schema.org",
+  "@id": "https://dev.tess.elixir-europe.org/events/how-to-boost-your-career-utilising-open-science-tools",
+  "@type": "Course",
+  "dct:conformsTo": {
     "@type": "CreativeWork",
-    "@id": "https://bioschemas.org/profiles/TrainingMaterial/1.0-RELEASE"
+    "@id": "https://bioschemas.org/profiles/Course/1.0-RELEASE"
   },
-  "description": "TeSS, how can I help you? This is our interactive hands-on course about efficient use of the ELIXIR TeSS platform.",
-  "keywords": "FAIR, OPEN, Bioinformatics, Teaching, TeSS",
-  "name": "TeSS, how can I help you?",
-  "license": "https://creativecommons.org/licenses/by/4.0/",
-  "educationalLevel": "beginner",
-  "competencyRequired": "none",
-  "teaches": [
-    "search events and material in TeSS via direct and faceted search",
-    "add manually and automatically events and material to TeSS",
-    "extract events and material from TeSS by using TeSS widgets"
+  "name": "How to boost your career utilising Open Science tools",
+  "url": "https://liascript.github.io/course/?https://raw.githubusercontent.com/JoannaSendecka/training_material_Parul-Joanna/refs/heads/main/README.md#1",
+  "keywords": [
+    "CoARA",
+    "research output",
+    "repository",
+    "Open science",
+    "ORCID",
+    "FAIR principles"
   ],
-  "audience": "training providers",
-  "inLanguage": "en-US",
-  "learningResourceType": [
-    "tutorial"
-  ],
-  "author": [
+  "provider": [
     {
-      "@type": "Person",
-      "name": "Bruna Piereck"
-    },
-    {
-      "@type": "Person",
-      "name": "Olivier Sand"
-    },
-    {
-      "@type": "Person",
-      "name": "Alexander Botzki"
+      "@type": "Organization",
+      "name": "SciLifeLab"
     }
   ],
-  "contributor": [
+  "audience": [
     {
-      "@type": "Person",
-      "name": "Yasmine Maes"
+      "@type": "Audience",
+      "audienceType": "PhD candidates"
     },
     {
-      "@type": "Person",
-      "name": "Finn Bacall"
+      "@type": "Audience",
+      "audienceType": "Early Career Researcher"
+    }
+  ],
+  "about": [
+    {
+      "@type": "DefinedTerm",
+      "@id": "http://edamontology.org/topic_4012",
+      "inDefinedTermSet": "http://edamontology.org",
+      "name": "FAIR data",
+      "url": "http://edamontology.org/topic_4012"
     },
     {
-      "@type": "Person",
-      "name": "Munazah Andrabi"
+      "@type": "DefinedTerm",
+      "@id": "http://edamontology.org/topic_4010",
+      "inDefinedTermSet": "http://edamontology.org",
+      "name": "Open science",
+      "url": "http://edamontology.org/topic_4010"
+    }
+  ],
+  "hasCourseInstance": [
+    {
+      "@context": "http://schema.org",
+      "@type": "CourseInstance",
+      "dct:conformsTo": {
+        "@type": "CreativeWork",
+        "@id": "https://bioschemas.org/profiles/CourseInstance/1.0-RELEASE"
+      },
+      "startDate": "2024-11-14 14:00:00 UTC",
+      "endDate": "2024-11-14 17:00:00 UTC",
+      "organizer": {
+        "@type": "Organization",
+        "name": "SciLifeLab"
+      },
+      "location": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Uppsala SLU",
+          "addressLocality": "Uppsala",
+          "addressRegion": "",
+          "addressCountry": "Sweden",
+          "postalCode": ""
+        },
+        "latitude": "59.858564",
+        "longitude": "17.638927"
+      },
+      "maximumAttendeeCapacity": 25,
+      "courseMode": "onsite"
     }
   ]
 }
