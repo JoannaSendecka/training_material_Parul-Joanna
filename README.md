@@ -243,13 +243,9 @@ Schedule:<br>
 
 Authors
 
-- [Name](@[orcid](https://orcid.org/XXXX)
+- [Parul Tewatia](@[orcid](https://orcid.org/0000-0002-3096-1318)
+- [Joanna Sendecka](@[orcid](https://orcid.org/0009-0002-6665-2856)
 
-Contributors
-
-- [Name](@[orcid](https://orcid.org/XXXY))
-- [Name](@[orcid](https://orcid.org/XXXZ))
-- [Name](@[orcid](https://orcid.org/XXXA))
 
 ## Citing this lesson
 
