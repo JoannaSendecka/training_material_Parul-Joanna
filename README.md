@@ -184,9 +184,6 @@ Schedule:<br>
 > To be able to follow this course, learners should have: <br>
 > 1. An ORCID ID <br> 
 > 2. Add your research outputs in ORCID <br>
-  <!-- 1. Basic knowlegde of HTML  
- 2. Basic knowledge of ...
- 3. Being comfortable working with ....  -->
 >
 > <i class="fa fa-bookmark"></i> **Description**  This course consist of .....
 > 
