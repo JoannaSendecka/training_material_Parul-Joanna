@@ -152,25 +152,26 @@ Schedule:<br>
 > <svg xmlns="http://www.w3.org/2000/svg" height="14" width="16" viewBox="0 0 576 512"><!--!Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2023 Fonticons, Inc.--><path d="M384 64c0-17.7 14.3-32 32-32H544c17.7 0 32 14.3 32 32s-14.3 32-32 32H448v96c0 17.7-14.3 32-32 32H320v96c0 17.7-14.3 32-32 32H192v96c0 17.7-14.3 32-32 32H32c-17.7 0-32-14.3-32-32s14.3-32 32-32h96V320c0-17.7 14.3-32 32-32h96V192c0-17.7 14.3-32 32-32h96V64z"/></svg> **Level:** Beginner  
 >
 > <i class="fa fa-arrow-left"></i> **Prerequisites**  
-> To be able to follow this course, learners should have knowledge in:
-> 
-> 1. Basic knowlegde of HTML  
+> To be able to follow this course, learners should have: <br>
+> 1. An ORCID ID <br> 
+> 2. Add your research outputs in ORCID <br>
+>  <!-- 1. Basic knowlegde of HTML  
 > 2. Basic knowledge of ...
-> 3. Being comfortable working with ....  
+> 3. Being comfortable working with ....  -->
 >
 > <i class="fa fa-bookmark"></i> **Description**  This course consist of .....
 > 
 > <i class="fa fa-arrow-right"></i> **Learning Outcomes:**  
 > By the end of the course, learners will be able to:<br>
 >
-> •	Define Open science (Remember) <br>
-> •	List outcomes of their research that can be shared (remember)<br>
-> •	Explain main incentives of sharing research outputs at different stages (understand)<br>
-> •	Explain FAIR principles and practices<br>
-> •	Differentiate between open science and FAIR (analyse)<br>
-> •	Choose the right tools/platforms for sharing research outputs (Apply)<br>
-> •	Be able to prepare a DMP plan (create)<br>
-> •	Conclude the regular sharing of research output is profitable (evaluate)<br>
+> 1.	Define Open science (Remember) <br>
+> 2.	List outcomes of their research that can be shared (remember)<br>
+> 3.	Explain main incentives of sharing research outputs at different stages (understand)<br>
+> 4.	Explain FAIR principles and practices<br>
+> 5.	Differentiate between open science and FAIR (analyse)<br>
+> 6.	Choose the right tools/platforms for sharing research outputs (Apply)<br>
+> 7.	Be able to prepare a DMP plan (create)<br>
+> 8.	Conclude the regular sharing of research output is profitable (evaluate)<br>
 
 ![image](https://github.com/user-attachments/assets/33db59fa-dfbb-437a-9906-ffe31ea5243b)
 
@@ -190,7 +191,7 @@ Schedule:<br>
 >
 >> Check more about [Bloom's taxonomy](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/) to categorize the levels in educational goals
 >
-> <i class="fa fa-hourglass"></i> **Time estimation**: 120 minutes
+> <i class="fa fa-hourglass"></i> **Time estimation**: 180 minutes (3 hours)
 >
 > <i class="fa fa-asterisk"></i> **Requirements:** The (technical) installation requirements are described in the [installations](https://vibbits-nextflow-workshop.readthedocs.io/en/latest/installations.html) section.
 >
