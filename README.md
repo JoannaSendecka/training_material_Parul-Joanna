@@ -134,12 +134,12 @@ The **presentation** which goes alongside this material can be found [here](link
 ## Proposed Schedule
 
 Schedule:
-14:00 - Introduction and ice breaker
-14:15 - What is CoARA and how it will influence research community
-15:15 - Break
-15:30 - What research outputs can be shared - discussion
-16:00 - Tools for sharing reseach output available in Sweden and internationally
-16:45 - Final Menti and Summary
+14:00 - Introduction and ice breaker <br>
+14:15 - What is CoARA and how it will influence research community<br>
+15:15 - Break<br>
+15:30 - What research outputs can be shared - discussion<br>
+16:00 - Tools for sharing reseach output available in Sweden and internationally<br>
+16:45 - Final Menti and Summary<br>
 
 </section>
 
