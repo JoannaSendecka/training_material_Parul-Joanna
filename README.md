@@ -137,9 +137,9 @@ orcid:    [@0](@1)<!--class="orcid-logo-for-author-list"-->
 
 <section>
 
-Hello and welcome to our @tutor workshop! We are very happy to have you here.
+Hello and welcome to our How to boost your career utilising Open Science tools workshop! We are very happy to have you here.
 
-This is the @edition edition of this workshop, jointly organised by your organisation and ELIXIR.
+This is the  1st edition edition of this workshop, jointly organised by Scilifelab DC and ELIXIR.
 
 <img src="./images/4163666.jpg" width="350" align="center"/>
 
@@ -152,9 +152,9 @@ This image was [Designed by pikisuperstar / Freepik](https://www.freepik.com/fre
 
 ## General context
 
-Welcome to our {{workshop_name}} workshop! We are very happy to have you here.
+Welcome to our {{How to boost your career utilising Open Science tools}} workshop! We are very happy to have you here.
 
-This is the {{workshop_edition}} edition of this workshop, jointly organised by the VIB Bioinformatics Core and ELIXIR Belgium.
+This is the {{1st Edition}} edition of this workshop, jointly organised by the VIB Bioinformatics Core and ELIXIR Belgium.
 
 - The first session (12 & 13 October 2023) is dedicated to Containers (Docker & Singularity) which are great tools for code portability and reproducibility of your analysis. You will learn how to use containers and how to build a container from scratch, share it with others and how to re-use and modify existing containers.
 
@@ -176,7 +176,7 @@ Schedule:<br>
 
 > <i class="fa fa-lock"></i> **License:** [Creative Commons Attribution share alike 4.0 International  License](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 >
-> <i class="fa fa-user"></i> **Target Audience:** Researchers, trainers, training providers
+> <i class="fa fa-user"></i> **Target Audience:** PhD students, Post Docs, Early stage Researchers
 >
 > <svg xmlns="http://www.w3.org/2000/svg" height="14" width="16" viewBox="0 0 576 512"><!--!Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2023 Fonticons, Inc.--><path d="M384 64c0-17.7 14.3-32 32-32H544c17.7 0 32 14.3 32 32s-14.3 32-32 32H448v96c0 17.7-14.3 32-32 32H320v96c0 17.7-14.3 32-32 32H192v96c0 17.7-14.3 32-32 32H32c-17.7 0-32-14.3-32-32s14.3-32 32-32h96V320c0-17.7 14.3-32 32-32h96V192c0-17.7 14.3-32 32-32h96V64z"/></svg> **Level:** Beginner  
 >
