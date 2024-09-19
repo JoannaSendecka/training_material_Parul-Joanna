@@ -161,9 +161,21 @@ Schedule:<br>
 > <i class="fa fa-bookmark"></i> **Description**  This course consist of .....
 > 
 > <i class="fa fa-arrow-right"></i> **Learning Outcomes:**  
-> By the end of the course, learners will be able to:
+> By the end of the course, learners will be able to:<br>
 >
-> 1. Define what ..... [Remembering] 
+> •	Define Open science (Remember) <br>
+> •	List outcomes of their research that can be shared (remember)<br>
+> •	Explain main incentives of sharing research outputs at different stages (understand)<br>
+> •	Explain FAIR principles and practices<br>
+> •	Differentiate between open science and FAIR (analyse)<br>
+> •	Choose the right tools/platforms for sharing research outputs (Apply)<br>
+> •	Be able to prepare a DMP plan (create)<br>
+> •	Conclude the regular sharing of research output is profitable (evaluate)<br>
+
+![image](https://github.com/user-attachments/assets/33db59fa-dfbb-437a-9906-ffe31ea5243b)
+
+>
+> <!-- 1. Define what ..... [Remembering] 
 >
 > 2. Discuss and explain ..... [Understanding] 
 >
@@ -174,6 +186,7 @@ Schedule:<br>
 > 5. Evaluate and select ..... [Evaluating] 
 >
 > 6. Create and integrate ..... [Creating]
+>    -->
 >
 >> Check more about [Bloom's taxonomy](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/) to categorize the levels in educational goals
 >
