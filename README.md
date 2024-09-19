@@ -184,9 +184,9 @@ Schedule:<br>
 > To be able to follow this course, learners should have: <br>
 > 1. An ORCID ID <br> 
 > 2. Add your research outputs in ORCID <br>
->  <!-- 1. Basic knowlegde of HTML  
-> 2. Basic knowledge of ...
-> 3. Being comfortable working with ....  -->
+  <!-- 1. Basic knowlegde of HTML  
+ 2. Basic knowledge of ...
+ 3. Being comfortable working with ....  -->
 >
 > <i class="fa fa-bookmark"></i> **Description**  This course consist of .....
 > 
@@ -201,11 +201,10 @@ Schedule:<br>
 > 6.	Choose the right tools/platforms for sharing research outputs (Apply)<br>
 > 7.	Be able to prepare a DMP plan (create)<br>
 > 8.	Conclude the regular sharing of research output is profitable (evaluate)<br>
+<!--
+![image](https://github.com/user-attachments/assets/33db59fa-dfbb-437a-9906-ffe31ea5243b) -->
 
-![image](https://github.com/user-attachments/assets/33db59fa-dfbb-437a-9906-ffe31ea5243b)
-
->
-> <!-- 1. Define what ..... [Remembering] 
+ <!-- 1. Define what ..... [Remembering] 
 >
 > 2. Discuss and explain ..... [Understanding] 
 >
@@ -217,7 +216,8 @@ Schedule:<br>
 >
 > 6. Create and integrate ..... [Creating]
 >    -->
->
+
+
 >> Check more about [Bloom's taxonomy](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/) to categorize the levels in educational goals
 >
 > <i class="fa fa-hourglass"></i> **Time estimation**: 180 minutes (3 hours)
